@@ -17,7 +17,7 @@
     "removeall",
     "removetoinsert"
   ],
-  "author": "greenify <greenify@notsharingmy.info> (https://github.com/greenify)",
+  "author": "greenify",
   "license": "Apache 2",
   "bugs": {
     "url": "https://github.com/greenify/dom-helper/issues"
