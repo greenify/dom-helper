@@ -1,0 +1,26 @@
+{
+  "name": "dom-helper",
+  "version": "1.0.0",
+  "description": "A super fast DOM helper lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/greenify/dom-helper"
+  },
+  "keywords": [
+    "dom",
+    "helper",
+    "insertlater",
+    "removeall",
+    "removetoinsert"
+  ],
+  "author": "greenify <greenify@notsharingmy.info> (https://github.com/greenify)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/greenify/dom-helper/issues"
+  },
+  "homepage": "https://github.com/greenify/dom-helper"
+}
